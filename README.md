@@ -24,7 +24,7 @@ Um sistema de controle de produtividade para equipes de desenvolvimento e design
 ---
 
 ## 🛠️ Tecnologias
-* **Linguagem:** Java 17
+* **Linguagem:** Java 26 (OpenJDK)
 * **IDE:** Eclipse
 * **Versionamento:** Git/GitHub
 
